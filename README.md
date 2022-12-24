@@ -1,9 +1,3 @@
-# media
-
-- [Click Here](https://screencast-o-matic.com/watch/c3lZFyVvLU8) for a Video on creating a new folder in GitHub 
-  Powered by: [ScreenCastO-Matic](https://screencast-o-matic.com/)
-#  
- 
  
 
 > Dad, 
